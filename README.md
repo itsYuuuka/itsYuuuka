@@ -18,7 +18,7 @@ A **career-changer** turned **Software Developer** with a background in **health
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%2366CC6D.svg?style=flat&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%2366CC6D.svg?style=flat&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 ### **Frontend**  
