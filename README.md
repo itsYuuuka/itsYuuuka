@@ -40,11 +40,4 @@ A **career-changer** turned **Software Developer** with a background in **health
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=itsYuuuka&theme=neon&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsYuuuka&theme=neon&hide_border=false&layout=compact)
-
----
-
 📫 **Feel free to reach out or check out my [portfolio](https://okan-altun.netlify.app/)!**
