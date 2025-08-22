@@ -14,6 +14,7 @@ A **career-changer** turned **Software Developer** with a background in **health
 ## 💻 Tech Stack
 
 ### **Languages & Frameworks**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -37,6 +38,7 @@ A **career-changer** turned **Software Developer** with a background in **health
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000.svg?style=flat&logo=unity&logoColor=white)
 
 ---
 
