@@ -14,8 +14,8 @@ A **career-changer** turned **Software Developer** with a background in **health
 ## 💻 Tech Stack
 
 ### **Languages & Frameworks**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/c%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/css-639?logo=css&logoColor=fff)](#)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +27,7 @@ A **career-changer** turned **Software Developer** with a background in **health
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF)
+![Vuetify](https://img.shields.io/badge/vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF)
 
 ### **Backend & Databases**  
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
