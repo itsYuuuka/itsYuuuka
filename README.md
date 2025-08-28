@@ -1,15 +1,15 @@
 ## 👋 Hi, I'm Okan
 
-A **career-changer** turned **Software Developer** with a background in **healthcare** and a passion for building creative, user-friendly digital solutions. I believe in continuous learning and am currently deepening my expertise in **React**.
+I code stuff, play games, and learn new tech for fun.
 
 ---
-
+<!--
 ## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/okan.atn/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okan-altun-478a30336/)
 
----
+--- -->
 
 ## 💻 Tech Stack
 
