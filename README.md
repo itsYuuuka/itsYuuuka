@@ -1,15 +1,10 @@
 ## 👋 Hi, I'm Okan
 
-I code stuff, play games, and learn new tech for fun.
+I code stuff, play games, and learn new tech for fun. 
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/okan-altun-478a30336/)
 
 ---
-<!--
-## 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/okan.atn/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okan-altun-478a30336/)
-
---- -->
 
 ## 💻 Tech Stack
 
@@ -39,7 +34,3 @@ I code stuff, play games, and learn new tech for fun.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000.svg?style=flat&logo=unity&logoColor=white)
-
----
-
-📫 **Feel free to reach out or check out my [portfolio](https://okan-altun.netlify.app/)!**
