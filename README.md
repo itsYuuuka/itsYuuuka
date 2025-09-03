@@ -2,8 +2,6 @@
 
 I code stuff, play games, and learn new tech for fun. 
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/okan-altun-478a30336/)
-
 ---
 
 ## 💻 Tech Stack
