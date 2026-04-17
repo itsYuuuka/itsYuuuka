@@ -21,10 +21,7 @@ jobs:
           plugin_languages_ignored: >-
             html, css, dockerfile, makefile, shell
           plugin_languages_details: percentage, lines
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 600
-          commits_authoring: itsYuuuka, 175306809+itsYuuuka@users.noreply.github.com
           config_timezone: Europe/Vienna
