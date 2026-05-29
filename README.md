@@ -10,18 +10,28 @@
 
 </td>
 <td valign="top" width="50%">
-<br>
+
+<h3 align="center">Hi, I'm Okan</h3>
+<ul>
+  <li>🐹 Currently learning Go and diving deeper into backend development</li>
+  <li>🏗️ Building things with Java, React, and PostgreSQL</li>
+  <li>🧩 Exploring Python along the way</li>
+  <li>☕ Turning ideas into side projects</li>
+</ul>
+
 <h3 align="center">My Toolbox</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,py,js,ts,html,css,spring,hibernate,react,vue,tailwind,bootstrap,vuetify,postgres,mysql,git,github,postman,unity,vscode,idea&perline=11" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,go,py,js,ts,html,css,spring,hibernate&perline=9" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,vuetify,postgres,mysql,git,github&perline=9" />
+</p>
 
-<img width="100%" src="metrics.languages.svg" alt="Language activity" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,unity,vscode,idea&perline=4" />
+</p>
 
 </td>
 </tr>
